@@ -1,0 +1,19 @@
+{
+  "name": "is-date",
+  "version": "0.0.0",
+  "description": "A TypeScript type guard that validates if the given value is a Date",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/is-date.git"
+  },
+  "keywords": [],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/is-date/issues"
+  },
+  "homepage": "https://github.com/fvilers/is-date#readme"
+}
