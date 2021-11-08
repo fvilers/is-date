@@ -2,8 +2,10 @@
   "name": "is-date",
   "version": "0.0.0",
   "description": "A TypeScript type guard that validates if the given value is a Date",
+  "main": "dist/is-date.js",
+  "types": "dist/is-date.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/is-date/issues"
   },
-  "homepage": "https://github.com/fvilers/is-date#readme"
+  "homepage": "https://github.com/fvilers/is-date#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
 }
