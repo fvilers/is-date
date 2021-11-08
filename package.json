@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/is-date",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript type guard that validates if the given value is a Date",
   "main": "dist/is-date.js",
   "types": "dist/is-date.d.ts",
