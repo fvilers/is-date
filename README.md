@@ -21,7 +21,7 @@ Starting with version 2.0.0, this library will be published as an ECMAScript mod
 ## Usage
 
 ```ts
-import isDate from "@fvilers/is-date";
+import { isDate } from "@fvilers/is-date";
 
 const variable: any = new Date("December 17, 1995 03:24:00");
 
